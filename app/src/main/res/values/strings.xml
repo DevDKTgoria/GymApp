@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gymage</string>
+
+    <string name="title_section1">NEWS</string>
+    <string name="title_section2">GIMNASIO</string>
+    <string name="title_section3">TERRAZA</string>
+    <string name="title_section4"></string>
+    <string name="title_section5">Reservas</string>
+    <string name="title_section6">Contacta</string>
+    <string name="title_section7">Log in</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Ayuda</string>
+</resources>
